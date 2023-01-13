@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "Akhavan-headshot.png"
+  name             : "Bonnie Akhavan"
+  avatar           : "images/Akhavan-headshot.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Cambridge, MA"
   employer         :
